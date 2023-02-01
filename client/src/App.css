@@ -1,0 +1,14 @@
+.massage{
+    height: 400px;
+    /* overflow-y: scroll; */
+    /* border: 1px solid black; */
+    /* background-color: black; */
+
+}
+.massage::-webkit-scrollbar{
+    display: none;
+    width: 0%;
+}
+*{
+    box-sizing: border-box;
+}
